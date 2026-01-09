@@ -3,6 +3,21 @@
     <channel>
         <title>Crew Manager</title>
         <item>
+            <title>1.0.7</title>
+            <pubDate>Sat, 10 Jan 2026 00:34:09 +0800</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/AreroKetahi/Crew-Manager-Distribute/releases/download/v1.0.7/Crew_Manager-1.0.7.dmg" length="5203968" type="application/octet-stream" sparkle:edSignature="iNYFvPM8JlJoka6cm31g3/Z/D0RkwkKB5ODLr6UApJJR20BrBn96+JzdE5J6RWZJfU3rp8iug9Pteb9digKQBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/AreroKetahi/Crew-Manager-Distribute/releases/download/v1.0.7/Crew_Manager8-7.delta" sparkle:deltaFrom="7" length="278646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Qk6Lx6DnNau8XNSo9/a9vSVSdVIeZ6A05T1EatItn8qNz9CfM/js1P9ZcX4gncxDT0sQyCc1tk61Vtpcn9X/Bg=="/>
+                <enclosure url="https://github.com/AreroKetahi/Crew-Manager-Distribute/releases/download/v1.0.7/Crew_Manager8-6.delta" sparkle:deltaFrom="6" length="526842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GLQgVgyJG47iEeT0eiycX3PdFssf5Tc6iYYp26Ta9t3BkT+0b7JXB9FyYJJSeJ/xEy06WflQSxxQ00ONW3qVCQ=="/>
+                <enclosure url="https://github.com/AreroKetahi/Crew-Manager-Distribute/releases/download/v1.0.7/Crew_Manager8-5.delta" sparkle:deltaFrom="5" length="570914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="foYQ3qayQRotZ3tmU5gxqgOEy4FLEf/xw4efQWOyjJlkzie++FYUW74anZtEaHh8UF0kxNilf59vNuSZrgb6Ag=="/>
+                <enclosure url="https://github.com/AreroKetahi/Crew-Manager-Distribute/releases/download/v1.0.7/Crew_Manager8-3.delta" sparkle:deltaFrom="3" length="2119122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OqZFtkD7fpx8Q+bPfBHndc8k8JrEtQjdhQil3ji5E37biUP7M1YBBUg+b7KEkODbojzZfMFKmzj9IS8se6N2CQ=="/>
+                <enclosure url="https://github.com/AreroKetahi/Crew-Manager-Distribute/releases/download/v1.0.7/Crew_Manager8-4.delta" sparkle:deltaFrom="4" length="2096930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xVvqdszpCKPS010Y7nrbO8Lu802KMMKVCZYb4E/PxZbMHLY1+tggsjnRI3qpsbjrtG/ZFKBN3NIj5Q7nu6mGAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Thu, 25 Dec 2025 02:57:32 +0800</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -30,20 +45,6 @@
                 <enclosure url="https://github.com/AreroKetahi/Crew-Manager-Distribute/releases/download/v1.0.5/Crew_Manager6-3.delta" sparkle:deltaFrom="3" length="1914750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oGgZUot7YVcPNhItNqU2C9tsepltB4hBT+2urRuEq7Bef4Irik69A+vnROcTYspHuHJWqb/YSQzuXcfs5aS+DQ=="/>
                 <enclosure url="https://github.com/AreroKetahi/Crew-Manager-Distribute/releases/download/v1.0.5/Crew_Manager6-2.delta" sparkle:deltaFrom="2" length="1917978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fX4dpYsaGHImWSfF7jzP6EeadSWx+a9wOzTiNGydfpeNQVr1UZJf3h1gSuLW5vl8tjNsRxJGigD2IVyVwQknDA=="/>
                 <enclosure url="https://github.com/AreroKetahi/Crew-Manager-Distribute/releases/download/v1.0.5/Crew_Manager6-1.delta" sparkle:deltaFrom="1" length="1943954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DhBCU4HncjbX1ClFqUZ1iZPvcfExGOi6c6mTHlItpap2yFe7CnT86T5MBjj0TBWH9dlRs3Bif4op5jzchnj7Ag=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.4</title>
-            <pubDate>Sun, 09 Nov 2025 00:53:22 +0000</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/AreroKetahi/Crew-Manager-Distribute/releases/download/v1.0.4/Crew_Manager-1.0.4.dmg" length="5003264" type="application/octet-stream" sparkle:edSignature="tW6b6vGSEQfvFImdYUIoYpk/VZ9bUcq6RJkduLxjI4iJ8CM4omlpYcrAjoc3MRUpRzIfyuTwl4o7xB/qgwo8BQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/AreroKetahi/Crew-Manager-Distribute/releases/download/v1.0.4/Crew_Manager5-4.delta" sparkle:deltaFrom="4" length="1855930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wU4dRmVadanIP9+h6ccM3n3ODERs6PG8Cc8SdEQOfanjw260FyUtNYvkFYycLjwuhrZqmNigKRll97337gGZAg=="/>
-                <enclosure url="https://github.com/AreroKetahi/Crew-Manager-Distribute/releases/download/v1.0.4/Crew_Manager5-3.delta" sparkle:deltaFrom="3" length="1878494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r3QNaee4ejOvBalVCq/RIx8frZzU+EDl700PDwKqdST2AKM/v+oU7RIAYAqR8FlEx92z9Wtq/164ykk3xQeCCw=="/>
-                <enclosure url="https://github.com/AreroKetahi/Crew-Manager-Distribute/releases/download/v1.0.4/Crew_Manager5-2.delta" sparkle:deltaFrom="2" length="1882590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="maPnokE8F+7ukvvKO+Xu/R4vrjTkHfDefG0Cpc20BA8bdaC4FwG21/c2MIBapvmMep+9UDQ+wuEqst3LrbhTDQ=="/>
-                <enclosure url="https://github.com/AreroKetahi/Crew-Manager-Distribute/releases/download/v1.0.4/Crew_Manager5-1.delta" sparkle:deltaFrom="1" length="1913850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VUTQX2ZQuHoaayoz/ycG5uEsdiGCHJYSsPW209Jdun/MYTfnwO9IOfUO2VQdu+MsMYMLwHypheafPzDYdjdFAw=="/>
             </sparkle:deltas>
         </item>
     </channel>
